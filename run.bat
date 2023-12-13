@@ -1,0 +1,1 @@
+.\x64\Release\slam.exe mono_kitti .\Vocabulary\ORBvoc.bin .\Examples\Monocular\davinci.yaml <Folder with data>
